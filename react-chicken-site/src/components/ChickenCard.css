@@ -1,5 +1,6 @@
 img{
-    width: 20vh;
+    width: 15vw;
+    height: 25vh;
     padding-top: 15px;
 }
 figcaption{
@@ -26,4 +27,8 @@ p{
     margin-left: 5px;
     margin-top: 50px;
     border: 2px solid red;
+}
+
+.card{
+    text-align: center;
 }
