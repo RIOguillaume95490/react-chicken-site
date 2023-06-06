@@ -11,7 +11,7 @@ function App() {
     <>
 
     <div>
-      <h1>// Kingdom Of Chicken //</h1>
+      <h1>// Chicken MAFIA //</h1>
     </div>
 
     <div className='chickencard-container'>
